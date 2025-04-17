@@ -1,0 +1,15 @@
+install.packages("tidyverse")  
+install.packages("tidytext")  
+install.packages("textdata")  # For accessing sentiment lexicons
+library(dplyr)  
+library(tidytext)  
+library(textdata)
+install.packages("tm")
+library(tm)
+install.packages("wordcloud")
+library(wordcloud)
+install.packages("RColorBrewer")
+library(RColorBrewer)
+install.packages("syuzhet")
+library(syuzhet)
+
